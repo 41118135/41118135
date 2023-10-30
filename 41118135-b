@@ -8,14 +8,13 @@
 <body>
     <h1>個人資料</h1>
     <ul>
-        <li>學號: NNNNNNN</li>
-        <li>姓名: XXXXXXXX</li>
+        <li>學號: 41118135</li>
+        <li>姓名: 孔佑宸</li>
     </ul>
 
     <p>詩的賞析：<a href="poem1.html">李白的《將進酒》</a></p>
 </body>
 </html>
-poem1.html:
 
 html
 Copy code
